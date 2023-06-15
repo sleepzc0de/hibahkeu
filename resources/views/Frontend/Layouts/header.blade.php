@@ -3,7 +3,7 @@
     <div class="container d-flex align-items-center">
 
       {{-- <h1 class="logo me-auto"><a href="{{route('home-index-fe')}}">HIkeu</a></h1> --}}
-      <img class="logo me-auto" src="{{asset('hikeu/assets/img/LOGO.png')}}" alt="" width="250">
+      <img class="logo me-auto" src="{{asset('hikeu/assets/img/LOGO2.png')}}" alt="" width="250">
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="hikeu/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
